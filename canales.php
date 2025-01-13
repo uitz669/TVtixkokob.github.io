@@ -62,7 +62,7 @@ if (file_exists($file)) {
 <body>
 
 <div class="menu-container">
-    <a href="principal_canales.php" class="modern-button">MENU PRINCIPAL</a>
+    <a href="index.html" class="modern-button">MENU PRINCIPAL</a>
     <img id="logo" src="tecnotix.png" alt="Logo TELEVISION TECNO TIX">
 </div>
 <h1>TELEVISION TECNO TIX</h1>
